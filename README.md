@@ -58,7 +58,3 @@ In Bust The Ghost, players attempt to locate a ghost hidden within a 9x12 grid. 
 
 - Omar Laaziri
 - Laila Choukri
-
-## Acknowledgments
-
-This project was developed as part of the Intro to AI (CSC 4301) course. Special thanks to our instructor and classmates for their support and feedback.

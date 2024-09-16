@@ -57,4 +57,3 @@ In Bust The Ghost, players attempt to locate a ghost hidden within a 9x12 grid. 
 ## Authors
 
 - Omar Laaziri
-- Laila Choukri
